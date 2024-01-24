@@ -1,0 +1,19 @@
+li {
+  list-style: none;
+  background-color: #ffffff33;
+  padding: 48px;
+  margin: 20px;
+  border-radius: 8px;
+}
+@media screen and (max-width: 767px) {
+  li {
+    list-style: none;
+    background-color: #ffffff33;
+    padding: 24px;
+    margin: 20px;
+    border-radius: 8px;
+  }
+  img {
+    height: 40px;
+  }
+}
